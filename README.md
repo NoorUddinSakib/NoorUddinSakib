@@ -1,16 +1,5 @@
 # Hi there, I'm Noor Uddin Sakib! 👋
-
-<a href="https://github.com/Noor-Sakib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noor-Sakib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Noor-Sakib">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noor-Sakib&layout=compact&theme=dracula"/>
-</a>
-
-<br/>
-<br/>
-
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a EEE graduate based in Germany 📍. I am passionate about Analog and Digital layout design and love working on projects that involve VLSI.
 
