@@ -15,7 +15,7 @@ I'm an AI savvy Electrical and Electronic Engineer based in Germany. My focus an
 - 🎨 I once won art championship in my school for my age group.
 
 👯 I’m looking for a part-time or Student Job (Werkstudent) in IC mask design.
-- 📫 How to reach me:
+
 - Write me an Email : **n.sakib193@gmail.com**.
 - Text me in Linkedin : **https://www.linkedin.com/in/noor-uddin-sakib-56287915b/**
 - Here's the exciting projects I have worked in : [My Project Portfolio](./VLSI/)
