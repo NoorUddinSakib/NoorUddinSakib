@@ -3,6 +3,8 @@
 
 I'm an AI savvy Electrical and Electronic Engineer based in Germany. My focus and passion is Analog and Digital layout design and my specialization is VLSI Design.
 
+A bit about me:
+
 - 🌱 I’m a Master's student in Micro and Nanotechnologies at TU Ilmenau, Germany.
 - 🎓 I have a Bachelor's Degree in Electrical and Electronic Engineering.
 - 🚀 I just finished a 14-week, in-person, hands-on training in IC Mask Design using Cadence Virtuoso.
