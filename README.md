@@ -5,4 +5,6 @@ I'm a EEE graduate based in Germany 📍. I am passionate about Analog and Digit
 
 - 🌱 I’m currently learning **Micro and Nanotechnologies**.
 - 👯 I’m looking to collaborate on **IC mask design**.
-- 📫 How to reach me: **n.sakib193@gmail.com**.
+- 📫 How to reach me:
+- Email : **n.sakib193@gmail.com**.
+- Linkedin : **https://www.linkedin.com/in/noor-uddin-sakib-56287915b/**
